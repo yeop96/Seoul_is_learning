@@ -59,3 +59,7 @@
 #### 소개 동영상
 
  [![Video Label](https://user-images.githubusercontent.com/48886490/82726967-7c6a1f80-9d22-11ea-94ef-7431da503e13.png)](https://youtu.be/qRei2QXclBc)
+
+
+수상작
+https://www.seoulappcontest.org/web/info/currentWinner.do
